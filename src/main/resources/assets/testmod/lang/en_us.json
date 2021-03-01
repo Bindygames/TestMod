@@ -1,3 +1,4 @@
 {
-	"item.testmod.upgrade": "Upgrade Slot"
+	"item.testmod.upgrade": "Upgrade Slot",
+	"tooltip.special_item.hold_shift": "\u00A77Hold \u00A7eShift \u00A77for More Information"
 }
